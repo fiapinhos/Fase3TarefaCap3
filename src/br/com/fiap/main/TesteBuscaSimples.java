@@ -16,7 +16,7 @@ public class TesteBuscaSimples {
 		}
 		
 		System.out.println("Alvo encontrado na posição " + i);
-		System.out.println("Valor do alco encontrado: " + vetor[i]);
+		System.out.println("Valor do alvo encontrado: " + vetor[i]);
 	}
 
 }
